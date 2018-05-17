@@ -5,10 +5,15 @@
         <group>
             <file>file:/I:/TSPP/States8/src/states8/DataCreator.java</file>
             <file>file:/I:/TSPP/States8/src/states8/CalendarEditor.java</file>
+            <file>file:/I:/TSPP/States8/src/states8/State.java</file>
             <file>file:/I:/TSPP/States8/src/states8/StateGui.java</file>
             <file>file:/I:/TSPP/States8/src/states8/Appointment.java</file>
             <file>file:/I:/TSPP/States8/src/states8/RunPattern.java</file>
+            <file>file:/I:/TSPP/States8/src/states8/Contactlmpl.java</file>
+            <file>file:/I:/TSPP/States8/src/states8/Contact.java</file>
             <file>file:/I:/TSPP/States8/src/states8/FileLoader.java</file>
+            <file>file:/I:/TSPP/States8/src/states8/Locationlmpl.java</file>
+            <file>file:/I:/TSPP/States8/src/states8/Location.java</file>
         </group>
     </open-files>
 </project-private>

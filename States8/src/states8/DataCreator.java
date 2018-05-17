@@ -44,6 +44,7 @@ private static Serializable createData(){
     ArrayList appointments = new ArrayList ();
 ArrayList contacts = new ArrayList();
 contacts.add(new Contactlmpl("Test", "Subject", "Volunteer", "United Patterns Consortium"));
+contacts.add(new Contactlmpl("AAA", "BBBB", "CCCC", "DDD"));
 Location locationl = new Locationlmpl("Punxsutawney, PA");
  appointments.add(new Appointment("Slowpokes anonymous", contacts, locationl, createDate(2001, 1, 1, 12, 01), createDate(2001, 1, 1, 12, 02)));
  appointments.add(new Appointment("Java focus group", contacts, locationl, createDate(2001, 1, 1, 12, 30), createDate(2001, 1, 1, 14, 30)));

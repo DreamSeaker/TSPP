@@ -31,6 +31,7 @@ public class FileLoader {
                     System.err.println(inputFile + " is a directory.");
                 }
             }
+        } ///
             catch (ClassNotFoundException exc){
                     exc.printStackTrace();
                     }

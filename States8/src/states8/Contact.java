@@ -10,7 +10,6 @@ package states8;
  * @author Alpha
  */
 import java.io.Serializable;
-
 public interface Contact extends Serializable{
     public static final String SPACE = " ";
  public String getFirstName();

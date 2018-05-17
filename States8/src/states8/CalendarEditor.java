@@ -57,7 +57,7 @@ public class CalendarEditor {
     private  class CleanState implements State{
  private State nextState = new DirtyState(this);
 
- public void saved() { }
+ public void save() { }
  public void edit(){ currentState = nextState; }
  }
 
